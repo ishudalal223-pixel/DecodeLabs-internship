@@ -31,3 +31,10 @@ Successfully cleaned and organized the dataset, ensuring accuracy, consistency, 
 Status
 
 ✅ Completed
+## Screenshots
+
+### Change Log
+![](WhatsApp Image 2026-06-23 at 9.44.27 AM (1).jpeg)
+
+### Cleaned Dataset
+![](WhatsApp Image 2026-06-23 at 9.44.27 AM.jpeg)
