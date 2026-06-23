@@ -33,8 +33,10 @@ Status
 ✅ Completed
 ## Screenshots
 
-### Change Log
-![](WhatsApp Image 2026-06-23 at 9.44.27 AM (1).jpeg)
+### Data Cleaning Process (Change Log)
 
-### Cleaned Dataset
-![](WhatsApp Image 2026-06-23 at 9.44.27 AM.jpeg)
+![Change Log](WhatsApp%20Image%202026-06-23%20at%209.44.27%20AM%20(1).jpeg)
+
+### Final Cleaned Dataset
+
+![Cleaned Dataset](WhatsApp%20Image%202026-06-23%20at%209.44.27%20AM.jpeg)
